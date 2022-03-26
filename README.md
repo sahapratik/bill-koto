@@ -1,1 +1,1 @@
-# bill-koto
+# bill-koto is a test program. 
